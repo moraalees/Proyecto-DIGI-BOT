@@ -27,6 +27,7 @@ Para poder ejecutar opciones del bot, se deberán escribir los diferentes comand
 (https://github.com/moraalees/Proyecto-DIGI-BOT/blob/1a7c8520c718a322484bc19625f942894a86630f/bot.py#L83C1-L85C86)
 
 - /ia: El bot responderá con IA a una pregunta que tú le escribirás (el máximo de caracteres que Discord permite en un mensaje es de 2000, por tanto es posible que la respuesta se vea incompleta).
+
 (https://github.com/moraalees/Proyecto-DIGI-BOT/blob/1a7c8520c718a322484bc19625f942894a86630f/bot.py#L78C1-L80C55)
 
 - /inicia: Inicia una historia implementando IA.
