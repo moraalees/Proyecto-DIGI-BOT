@@ -158,6 +158,19 @@ async def guardar(interaction: discord.Interaction):
         print(f"Error al guardar la historia: {e}")
         await interaction.response.send_message("❌ Hubo un error al guardar la historia.")
 
+@bot.tree.command(name="chiste", description="Pídele un chiste a la IA")
+async def chiste(interaction: discord.Interaction, tema: str):
+    try:
+        # Usamos la IA para generar un chiste sobre el tema que el usuario proporciona
+        respuesta = obtener_respuesta_ia(f"Cuenta un chiste sobre {tema}")
+
+        # Envía el chiste al canal
+        await interaction.response.send_message(respuesta)
+    
+    except Exception as e:
+        print("Error al obtener el chiste:", e)
+        await interaction.response.send_message("Lo siento, algo salió mal al generar el chiste. ¡Intenta de nuevo!")
+
 # Evento cuando el bot está listo
 @bot.event
 async def on_ready():
