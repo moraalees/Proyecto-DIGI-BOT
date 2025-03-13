@@ -8,8 +8,6 @@ from dotenv import load_dotenv
 
 # py -3.11 bot.py
 
-# https://discord.com/oauth2/authorize?client_id=1329402639729037353&permissions=2147551232&integration_type=0&scope=bot+applications.commands
-
 # Cargar las variables de entorno desde el archivo .env
 load_dotenv()
 
