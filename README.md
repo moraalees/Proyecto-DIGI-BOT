@@ -24,35 +24,16 @@ Para poder ejecutar opciones del bot, se deberán escribir los diferentes comand
 
 - /hola: El bot saluda al usuario.
 
-(https://github.com/moraalees/Proyecto-DIGI-BOT/blob/1a7c8520c718a322484bc19625f942894a86630f/bot.py#L83C1-L85C86)
-
 - /ia: El bot responderá con IA a una pregunta que tú le escribirás (el máximo de caracteres que Discord permite en un mensaje es de 2000, por tanto es posible que la respuesta se vea incompleta).
-
-(https://github.com/moraalees/Proyecto-DIGI-BOT/blob/1a7c8520c718a322484bc19625f942894a86630f/bot.py#L78C1-L80C55)
 
 - /inicia: Inicia una historia implementando IA.
 
-(https://github.com/moraalees/Proyecto-DIGI-BOT/blob/1a7c8520c718a322484bc19625f942894a86630f/bot.py#L87C1-L97C90)
-
-
 - /nueva: Reinicia la historia pero esta vez el comienzo será uno por defecto aleatoriamente desde una lista de inicios.
-
-(https://github.com/moraalees/Proyecto-DIGI-BOT/blob/1a7c8520c718a322484bc19625f942894a86630f/bot.py#L99C1-L107C1)
-
 
 - /seguir: Te pedirá que escribas algo. La IA lo recoge y seguirá también dicha historia (el máximo de caracteres que Discord permite en un mensaje es de 2000, por tanto es posible que la respuesta se vea incompleta).
 
-(https://github.com/moraalees/Proyecto-DIGI-BOT/blob/1a7c8520c718a322484bc19625f942894a86630f/bot.py#L108C1-L121C89)
-
-
 - /finalizar: Te pedirá que ingreses el final de la historia.
-
-(https://github.com/moraalees/Proyecto-DIGI-BOT/blob/1a7c8520c718a322484bc19625f942894a86630f/bot.py#L123C1-L134C95)
 
 - /guardar: Guardará la historia en un archivo JSON para poder verla de forma completa.
 
-(https://github.com/moraalees/Proyecto-DIGI-BOT/blob/1a7c8520c718a322484bc19625f942894a86630f/bot.py#L136C1-L157C91)
-
 - /chiste: La IA te contará un chiste según de qué tema lo pidas.
-
-(https://github.com/moraalees/Proyecto-DIGI-BOT/blob/1a7c8520c718a322484bc19625f942894a86630f/bot.py#L159C1-L170C118)
