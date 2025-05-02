@@ -42,7 +42,7 @@ py -3.11 bot.py
   - Used to clone the repository from GitHub.
   - [Git](https://git-scm.com/downloads)
 - Python 3.11 installed
-  - Python 3.13 is currently not compatible with the project, others versions were not tested.
+  - Python 3.13 is currently not compatible with the project, other versions were not tested.
   - [Python 3.11](https://www.python.org/downloads/release/python-3110/)
 - GitHub account
   - To clone the repository.
