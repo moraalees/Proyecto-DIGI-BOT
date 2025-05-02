@@ -12,6 +12,32 @@ The spark that has driven me to create and improve this project over the course 
 As a side note, part of my motivation also came from a personal curiosity: to see whether I was capable of completing a demanding yet interesting project, and to challenge myself in the process.
 What began as a simple experiment gradually turned into a passion project -one that helped me grow not only in technical skills, but also in creativity, perseverance, and problem-solving-.
 
+# Getting started
+
+To get started with HistoriasInteractivas, you must correctly follow these steps:
+
+- Create a local folder and clone this repository into it using the GitBash command `git clone yourSSHkey`, where yourSSHkey can be found under the CODE section of this repository.
+- Inside that folder, you must create a file named .env, which must contain the following (the details will be explained further below):
+```
+OPENROUTER_API_KEY='your OpenRouter API KEY'
+DISCORD_BOT_TOKEN='your Discord bot TOKEN'
+```
+- For the **DISCORD_BOT_TOKEN**, the user must register their own bot through the [Discord Developer Portal](https://discord.com/developers/applications). Create an application, open it, and go to the OAuth2 tab. In the OAuth2 URL Generator, check the boxes for Bot and Applications.commands.
+Scroll down and select the required permissions for the bot:
+  - `Send Messages`
+  - `Read Message History`
+  - `Use Slash Commands`
+At the bottom, a URL will be generated to invite the bot to any Discord server of your choice.
+Additionally, go to the Bot tab in the left-hand menu and click Reset Token to generate your bot's token. Copy this token and paste it into the .env file, replacing `your Discord bot TOKEN`.
+- For the `OpenRouter API KEY`, go to [OpenRouter](https://openrouter.ai/) in your browser and search for Google: Gemini Flash 1.5. Once selected, go to the API tab and click Create API Key. After the key is generated, copy and paste it into your .env file where it says `your OpenRouter API KEY`.
+- Once all of the above is completed, you're ready to run the .py file.
+From my experience, Python version 3.13 does not work with this program, so I recommend installing Python 3.11, which does work correctly.
+To run the bot, simply use the command:
+```
+py -3.11 bot.py
+```
+The bot will then be active on your Discord server and ready to respond to commands.
+
 # Separador
 Como proyecto para el módulo de **Digitalización** he tenido la idea de crear y desarrollar un bot de Discord mediante un programa de Python. Dicho bot tendrá la posibilidad de realizar acciones mediante comandos concretos, como por ejemplo, saludar al usuario. No obstante, como este proyecto necesita originalidad y algo que no se haya visto frecuentemente, he pensado en implementar IA en dicho proyecto.
 
