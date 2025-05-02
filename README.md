@@ -5,6 +5,13 @@
 > **Note**: HistoriasInteractivas is not finished. As of 02/05/2025, the program is still under development. For this reason, to learn more about the future of HistoriasInteractivas, I recommend taking a look at the 'CONTRIBUTING.md' file, which contains several ideas about the future of this project.
 Community contributions and feedback are welcome as the project evolves.
 
+# Motivation
+
+The spark that has driven me to create and improve this project over the course of several months lies in the cooperation between AI and humans. I find it fascinating that humans rely on AI for certain aspects, while AI depends entirely on humans to function. For this very reason, I decided to create a program that merges human thought with artificial intelligence data, so that neither is dependent on the other, and both can collaborate with a single purpose: a story.
+
+As a side note, part of my motivation also came from a personal curiosity: to see whether I was capable of completing a demanding yet interesting project, and to challenge myself in the process.
+What began as a simple experiment gradually turned into a passion project -one that helped me grow not only in technical skills, but also in creativity, perseverance, and problem-solving-.
+
 # Separador
 Como proyecto para el módulo de **Digitalización** he tenido la idea de crear y desarrollar un bot de Discord mediante un programa de Python. Dicho bot tendrá la posibilidad de realizar acciones mediante comandos concretos, como por ejemplo, saludar al usuario. No obstante, como este proyecto necesita originalidad y algo que no se haya visto frecuentemente, he pensado en implementar IA en dicho proyecto.
 
