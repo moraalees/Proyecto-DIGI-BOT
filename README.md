@@ -27,7 +27,7 @@ Scroll down and select the required permissions for the bot:
   - `Send Messages`
   - `Read Message History`
   - `Use Slash Commands`
-At the bottom, a URL will be generated to invite the bot to any Discord server of your choice.
+- At the bottom, a URL will be generated to invite the bot to any Discord server of your choice.
 Additionally, go to the Bot tab in the left-hand menu and click Reset Token to generate your bot's token. Copy this token and paste it into the .env file, replacing `your Discord bot TOKEN`.
 - For the `OpenRouter API KEY`, go to [OpenRouter](https://openrouter.ai/) in your browser and search for Google: Gemini Flash 1.5. Once selected, go to the API tab and click Create API Key. After the key is generated, copy and paste it into your .env file where it says `your OpenRouter API KEY`.
 - Once all of the above is completed, you're ready to run the .py file.
@@ -36,7 +36,7 @@ To run the bot, simply use the command:
 ```
 py -3.11 bot.py
 ```
-The bot will then be active on your Discord server and ready to respond to commands.
+HistoriasInteractivas will then be active on your Discord server and ready to respond to commands.
 
 # Separador
 Como proyecto para el módulo de **Digitalización** he tenido la idea de crear y desarrollar un bot de Discord mediante un programa de Python. Dicho bot tendrá la posibilidad de realizar acciones mediante comandos concretos, como por ejemplo, saludar al usuario. No obstante, como este proyecto necesita originalidad y algo que no se haya visto frecuentemente, he pensado en implementar IA en dicho proyecto.
