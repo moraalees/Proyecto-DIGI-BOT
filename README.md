@@ -59,22 +59,17 @@ py -3.11 bot.py
 
 HistoriasInteractivas will then be active on your Discord server and ready to respond to commands.
 
-# Separador
+# Commands
 
-Para poder ejecutar opciones del bot, se deberán escribir los diferentes comandos con una barra '/' por delante. Los diferentes comandos son:
+To use the bot's features, you must type the different commands with a forward slash / at the beginning. The available commands are:
 
-- /hola: El bot saluda al usuario.
+> Since I'm from Spain, HistoriasInteractivas will respond your commands in Spanish.
 
-- /ia: El bot responderá con IA a una pregunta que tú le escribirás (el máximo de caracteres que Discord permite en un mensaje es de 2000, por tanto es posible que la respuesta se vea incompleta).
-
-- /inicia: Inicia una historia implementando IA.
-
-- /nueva: Reinicia la historia pero esta vez el comienzo será uno por defecto aleatoriamente desde una lista de inicios.
-
-- /seguir: Te pedirá que escribas algo. La IA lo recoge y seguirá también dicha historia (el máximo de caracteres que Discord permite en un mensaje es de 2000, por tanto es posible que la respuesta se vea incompleta).
-
-- /finalizar: Te pedirá que ingreses el final de la historia.
-
-- /guardar: Guardará la historia en un archivo JSON para poder verla de forma completa.
-
-- /chiste: La IA te contará un chiste según de qué tema lo pidas.
+- `/hola`: The bot will greet the user.
+- `/ia`: The bot will respond using AI to a question you type (Discord allows a maximum of 2000 characters per message, so the response might be incomplete).
+- `/inicia`: Starts a story using AI.
+- `/nueva`: Restarts the story, this time with a randomly selected default beginning from a preset list.
+- `/seguir`: The bot will prompt you to write something. The AI will take your input and continue the story accordingly (Discord allows a maximum of 2000 characters per message, so the response might be incomplete).
+- `/finalizar`: The bot will ask you to input the ending of the story.
+- `/guardar`: Saves the story to a JSON file so you can view it in full later.
+- `/chiste`: The AI will tell you a joke based on the topic you request.
