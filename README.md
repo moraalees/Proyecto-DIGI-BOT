@@ -68,9 +68,16 @@ To use the bot's features, you must type the different commands with a forward s
 - `/hola`: The bot will greet the user.
 ![hola](./media/hola_dc.gif)
 - `/ia`: The bot will respond using AI to a question you type (Discord allows a maximum of 2000 characters per message, so the response might be incomplete).
+![ia](./media/ia_dc.gif)
 - `/inicia`: Starts a story using AI.
+![inicia](./media/inicia_dc.gif)
 - `/nueva`: Restarts the story, this time with a randomly selected default beginning from a preset list.
+![nueva](./media/nueva_dc.gif)
 - `/seguir`: The bot will prompt you to write something. The AI will take your input and continue the story accordingly (Discord allows a maximum of 2000 characters per message, so the response might be incomplete).
+![seguir](./media/seguir_dc.gif)
 - `/finalizar`: The bot will ask you to input the ending of the story.
+![finalizar](./media/finalizar_dc.gif)
 - `/guardar`: Saves the story to a JSON file so you can view it in full later.
+![guardar](./media/guardar_dc.gif)
 - `/chiste`: The AI will tell you a joke based on the topic you request.
+![chiste](./media/chiste_dc.gif)
