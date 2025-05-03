@@ -63,7 +63,7 @@ HistoriasInteractivas will then be active on your Discord server and ready to re
 
 To use the bot's features, you must type the different commands with a forward slash / at the beginning. The available commands are:
 
-> Since I'm from Spain, HistoriasInteractivas will respond your commands in Spanish.
+> Since I'm from Spain, HistoriasInteractivas may respond your commands in Spanish.
 
 - `/hola`: The bot will greet the user.
 - `/ia`: The bot will respond using AI to a question you type (Discord allows a maximum of 2000 characters per message, so the response might be incomplete).
