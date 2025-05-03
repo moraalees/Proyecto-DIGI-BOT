@@ -29,7 +29,7 @@ Scroll down and select the required permissions for the bot:
   - `Use Slash Commands`
 - At the bottom, a URL will be generated to invite the bot to any Discord server of your choice.
 Additionally, go to the Bot tab in the left-hand menu and click Reset Token to generate your bot's token. Copy this token and paste it into the .env file, replacing `your Discord bot TOKEN`.
-- For the **OpenRouter API KEY**, go to [OpenRouter](https://openrouter.ai/) in your browser and search for Google: Gemini Flash 1.5. Once selected, go to the API tab and click Create API Key. After the key is generated, copy and paste it into your .env file where it says `your OpenRouter API KEY`.
+- For the **OPENROUTER_API_KEY**, go to [OpenRouter](https://openrouter.ai/) in your browser and search for Google: Gemini Flash 1.5. Once selected, go to the API tab and click Create API Key. After the key is generated, copy and paste it into your .env file where it says `your OpenRouter API KEY`.
 - Once all of the above is completed, you're ready to run the .py file.
 From my experience, Python version 3.13 does not work with this program, so I recommend installing Python 3.11, which does work correctly.
 To run the bot, simply use the command:
