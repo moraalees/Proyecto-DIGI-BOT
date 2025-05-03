@@ -66,6 +66,7 @@ To use the bot's features, you must type the different commands with a forward s
 > Since I'm from Spain, HistoriasInteractivas may respond your commands in Spanish.
 
 - `/hola`: The bot will greet the user.
+![hola](./media/hola_dc.gif)
 - `/ia`: The bot will respond using AI to a question you type (Discord allows a maximum of 2000 characters per message, so the response might be incomplete).
 - `/inicia`: Starts a story using AI.
 - `/nueva`: Restarts the story, this time with a randomly selected default beginning from a preset list.
