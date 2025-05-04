@@ -10,12 +10,12 @@ Below you'll find a basic guide on how to collaborate with HistoriasInteractivas
 
 ### Index
 
-- [Issues]()
-- [Prerequisites]()
-- [Contributing]()
-- [Improvements]()
-- [Styleguides]()
-  - [Commit messages]()
+- [Issues](#issues-and-questions)
+- [Prerequisites](#prerequisites)
+- [Contributing](#contributing)
+- [Improvements](#possible-improvements-and-ideas)
+- [Styleguides](#styleguides)
+  - [Commit messages](#commit-messages)
 
 ---
 
