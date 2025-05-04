@@ -8,6 +8,17 @@ Below you'll find a basic guide on how to collaborate with HistoriasInteractivas
 
 ---
 
+### Index
+
+- [Issues]()
+- [Prerequisites]()
+- [Contributing]()
+- [Improvements]()
+- [Styleguides]()
+  - [Commit messages]()
+
+---
+
 ### Issues and questions
 
 If you have questions, suggestions, or have found a bug, feel free to open an issue.
