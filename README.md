@@ -2,9 +2,6 @@
 
 **HistoriasInteractivas**, also known as **Storytelling Bot**, is a program established on Discord whose main purpose is to entertain and provoke thought in the user. Unlike other Discord bots, which are designed to perform predefined functions -such as providing server information or guiding the user through the channel- HistoriasInteractivas uses AI (Artificial Intelligence) to engage in a 'conversation' with the user or to tell them a joke. Thanks to AI, it is possible to combine story fragments between the human and the bot, resulting in a rather interesting and intricate narrative.
 
-> **Note**: HistoriasInteractivas is not finished. As of 02/05/2025, the program is still under development. For this reason, to learn more about the future of HistoriasInteractivas, I recommend taking a look at the `CONTRIBUTING.md` file, which contains several ideas about the future of this project.
-Community contributions and feedback are welcome as the project evolves.
-
 # Motivation
 
 The spark that has driven me to create and improve this project over the course of several months lies in the cooperation between AI and humans. I find it fascinating that humans rely on AI for certain aspects, while AI depends entirely on humans to function. For this very reason, I decided to create a program that merges human thought with artificial intelligence data, so that neither is dependent on the other, and both can collaborate with a single purpose: a story.
@@ -81,3 +78,7 @@ To use the bot's features, you must type the different commands with a forward s
 ![guardar](./media/guardar_dc.gif)
 - `/chiste`: The AI will tell you a joke based on the topic you request.
 ![chiste](./media/chiste_dc.gif)
+
+# Contributing
+
+HistoriasInteractivas is not finished, as the program is still under development. For this reason, to learn more about the future of HistoriasInteractivas, I recommend taking a look at the `CONTRIBUTING.md` file, which contains several ideas about the future of this project. Community contributions and feedback are welcome as the project evolves.
