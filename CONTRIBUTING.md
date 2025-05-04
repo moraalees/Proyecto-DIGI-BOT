@@ -1,6 +1,6 @@
 # Contributing for **HistoriasInteractivas**
 
-### How to Contribute to HistoriasInteractivas
+## How to Contribute to HistoriasInteractivas
 
 Thank you for your interest in contributing to this project!
 
@@ -8,7 +8,7 @@ Below you'll find a basic guide on how to collaborate with HistoriasInteractivas
 
 ---
 
-### Index
+## Index
 
 - [Issues](#issues-and-questions)
 - [Prerequisites](#prerequisites)
@@ -19,7 +19,7 @@ Below you'll find a basic guide on how to collaborate with HistoriasInteractivas
 
 ---
 
-### Issues and questions
+## Issues and questions
 
 If you have questions, suggestions, or have found a bug, feel free to open an issue.
 
@@ -38,7 +38,7 @@ We’ll take a look as soon as possible.
 
 ---
 
-### Prerequisites
+## Prerequisites
 
 Before getting started:
 - Basic knowledge of Python and Discord import.
@@ -47,7 +47,7 @@ Before getting started:
 
 ---
 
-### Contributing
+## Contributing
 
 > **Legal Notice**: When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content, and that the content you contribute may be provided under the project license.
 
@@ -73,7 +73,7 @@ git push origin your-branch-name
 
 ---
 
-### Possible Improvements and Ideas
+## Possible Improvements and Ideas
 
 Here are some ideas for future development, if they inspire you, go ahead without hesitation!
 
@@ -86,9 +86,9 @@ Here are some ideas for future development, if they inspire you, go ahead withou
 
 ---
 
-### Styleguides
+## Styleguides
 
-- #### Commit Messages
+- ### Commit Messages
 1. Use clear and descriptive commit messages.
 2. Follow the general format: Short summary `(50 characters or less)` followed by an optional detailed explanation.
 - ##### Code Style
