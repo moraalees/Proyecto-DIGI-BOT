@@ -4,6 +4,17 @@
 
 ---
 
+# Index
+
+- ### [Motivation](#motivation)
+- ### [Getting started](#getting-started)
+  - #### [Final Recap](#as-a-final-recap-heres-everything-you-need-to-get-the-program-up-and-running)
+- ### [Commands](#commands)
+- ### [Contributing](#contributing)
+- ### [License](#license)
+
+---
+
 # Motivation
 
 The spark that has driven me to create and improve this project over the course of several months lies in the cooperation between AI and humans. I find it fascinating that humans rely on AI for certain aspects, while AI depends entirely on humans to function. For this very reason, I decided to create a program that merges human thought with artificial intelligence data, so that neither is dependent on the other, and both can collaborate with a single purpose: a story.
@@ -38,7 +49,7 @@ To run the bot, simply use the command:
 py -3.11 bot.py
 ```
 
-### As a final recap, here's everything you need to get the program up and running: ###
+### As a final recap, here's everything you need to get the program up and running:
 - Git installed
   - Used to clone the repository from GitHub.
   - [Git](https://git-scm.com/downloads)
