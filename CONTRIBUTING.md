@@ -38,6 +38,8 @@ Before getting started:
 
 ### Contributing
 
+> **Legal Notice**: When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content, and that the content you contribute may be provided under the project license.
+
 Once everything is clear, you must:
 1. Fork this repository.
 2. Clone your fork to your local machine:
@@ -77,6 +79,6 @@ Here are some ideas for future development, if they inspire you, go ahead withou
 
 - #### Commit Messages
 1. Use clear and descriptive commit messages.
-2. Follow the general format: Short summary (50 characters or less) followed by an optional detailed explanation.
+2. Follow the general format: Short summary `(50 characters or less)` followed by an optional detailed explanation.
 - ##### Code Style
-1. Ensure your code adheres to the project's coding standards (Documentation, clear coding, etc.).
+1. Ensure your code adheres to the project's coding standards `(Documentation, clear coding, etc.)`.
