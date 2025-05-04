@@ -81,4 +81,4 @@ To use the bot's features, you must type the different commands with a forward s
 
 # Contributing
 
-HistoriasInteractivas is not finished, as the program is still under development. For this reason, to learn more about the future of HistoriasInteractivas, I recommend taking a look at the `CONTRIBUTING.md` file, which contains several ideas about the future of this project. Community contributions and feedback are welcome as the project evolves.
+HistoriasInteractivas is not finished, as the program is still under development. For this reason, to learn more about the future of HistoriasInteractivas, I recommend taking a look at the `CONTRIBUTING.md` file [here](CONTRIBUTING.md), which contains several ideas about the future of this project. Community contributions and feedback are welcome as the project evolves.
