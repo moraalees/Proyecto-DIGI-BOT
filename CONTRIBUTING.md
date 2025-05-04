@@ -38,3 +38,16 @@ git commit -m "Brief description of your changes"
 git push origin your-branch-name
 ```
 6. Open a Pull Request on GitHub and please describe what you’ve done.
+
+---
+
+### Possible Improvements and Ideas
+
+Here are some ideas for future development, if they inspire you, go ahead without hesitation!
+
+* Enhance the story generation system (branching narratives, more options, etc.).
+* Add narrative style customization (horror, adventure, comedy…).
+* Implement automatic story saving.
+* Support for multiple users and parallel stories.
+* Add more commands like /character, /setting, etc. whatever you feel the most.
+* Integrate a database or cloud computing in order to save user progress and story states.
