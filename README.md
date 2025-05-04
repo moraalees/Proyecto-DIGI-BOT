@@ -101,3 +101,4 @@ HistoriasInteractivas is not finished, as the program is still under development
 
 # License
 
+HistoriasInteractivas is released under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for both commercial and non-commercial purposes; do it as you wish. I still recommend taking a look at the file to learn a bit more about how this license works.
