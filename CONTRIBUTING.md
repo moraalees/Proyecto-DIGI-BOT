@@ -20,7 +20,7 @@ How to open an issue:
   - What the problem or suggestion is.
   - Steps to reproduce it (if it’s a bug or something similar).
   - Screenshots or error messages (if you feel necessary).
-5. Click "Submit new issue".
+5. Click `Submit new issue`.
 
 We’ll take a look as soon as possible.
 
