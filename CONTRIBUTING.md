@@ -14,3 +14,27 @@ Before getting started:
 - Basic knowledge of Python and Discord import.
 - Familiarity with Git and GitHub (cloning, branching, pull requests).
 - Read the [Guide](README.md) to understand how the bot works.
+
+---
+
+### Contributing
+
+Once everything is clear, you must:
+1. Fork this repository.
+2. Clone your fork to your local machine:
+```bash
+git clone https://github.com/your-username/HistoriasInteractivas.git
+```
+3. Create a new branch for your contribution:
+```bash
+git checkout -b your-branch-name
+```
+4. Make your changes and commit them:
+```bash
+git commit -m "Brief description of your changes"
+```
+5. Push your branch to your fork:
+```bash
+git push origin your-branch-name
+```
+6. Open a Pull Request on GitHub and please describe what you’ve done.
