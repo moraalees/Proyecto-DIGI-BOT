@@ -6,12 +6,12 @@
 
 # Index
 
-- ### [Motivation](#motivation)
-- ### [Getting started](#getting-started)
-  - #### [Final Recap](#as-a-final-recap-heres-everything-you-need-to-get-the-program-up-and-running)
-- ### [Commands](#commands)
-- ### [Contributing](#contributing)
-- ### [License](#license)
+- [Motivation](#motivation)
+- [Getting started](#getting-started)
+  - [Final Recap](#as-a-final-recap-heres-everything-you-need-to-get-the-program-up-and-running)
+- [Commands](#commands)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
