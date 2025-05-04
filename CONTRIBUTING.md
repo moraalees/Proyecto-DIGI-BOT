@@ -13,7 +13,7 @@ Below you'll find a basic guide on how to collaborate with HistoriasInteractivas
 If you have questions, suggestions, or have found a bug, feel free to open an issue.
 
 How to open an issue:
-1. Go to the Issues tab at the top of the repository.
+1. Go to the [Issues](https://github.com/moraalees/Proyecto-DIGI-BOT/issues) tab at the top of the repository.
 2. Click on `New issue`.
 3. Choose the appropriate template or select `Open a blank issue`.
 4. Add a clear title and description of the issue, including:
