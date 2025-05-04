@@ -70,3 +70,13 @@ Here are some ideas for future development, if they inspire you, go ahead withou
 * Support for multiple users and parallel stories.
 * Add more commands like /character, /setting, etc. whatever you feel the most.
 * Integrate a database or cloud computing in order to save user progress and story states.
+
+---
+
+### Styleguides
+
+- #### Commit Messages
+1. Use clear and descriptive commit messages.
+2. Follow the general format: Short summary (50 characters or less) followed by an optional detailed explanation.
+- ##### Code Style
+1. Ensure your code adheres to the project's coding standards (Documentation, clear coding, etc.).
