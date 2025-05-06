@@ -74,7 +74,7 @@
 
 ---
 
-## Criterio 6c) Áreas susceptibles de digitalización:
+## *Criterio 6c) Áreas susceptibles de digitalización:*
 
 ### ¿Qué áreas de la empresa son más susceptibles de ser digitalizadas con tu software?
 
@@ -86,7 +86,7 @@
 
 ---
 
-## Criterio 6d) Encaje de áreas digitalizadas (AD):
+## *Criterio 6d) Encaje de áreas digitalizadas (AD):*
 
 ### ¿Cómo interactúan las áreas digitalizadas con las no digitalizadas?
 
@@ -98,7 +98,7 @@
 
 ---
 
-## Criterio 6e) Necesidades presentes y futuras:
+## *Criterio 6e) Necesidades presentes y futuras:*
 
 ### ¿Qué necesidades actuales de la empresa resuelve tu software?
 
@@ -110,7 +110,7 @@
 
 ---
 
-## Criterio 6f) Relación con tecnologías:
+## *Criterio 6f) Relación con tecnologías:*
 
 ### ¿Qué tecnologías habilitadoras has empleado y cómo impactan en las áreas de la empresa?
 
@@ -129,7 +129,7 @@ Puedo señalar un beneficio por cada tecnología:
 
 ---
 
-## Criterio 6g) Brechas de seguridad:
+## *Criterio 6g) Brechas de seguridad:*
 
 ### ¿Qué posibles brechas de seguridad podrían surgir al implementar tu software?
 
@@ -144,7 +144,7 @@ He recogido 3 diferentes peligros:
 
 ---
 
-## Criterio 6h) Tratamiento de datos y análisis:
+## *Criterio 6h) Tratamiento de datos y análisis:*
 
 ### ¿Cómo se gestionan los datos en tu software y qué metodologías utilizas?
 
